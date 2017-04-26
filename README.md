@@ -10,8 +10,6 @@ This code covers first 4 phases for compiling :
  Steps to execute :
  Navigate to the folder in terminal.
  (give the permission to execute the shell script)
- > chmod u=rwx run.sh
- 
  > ./run.sh
  
  > ./a.out <prog_name>.c
